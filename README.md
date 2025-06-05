@@ -24,3 +24,4 @@ A comprehensive web application for pathology laboratories to manage patients, t
 - cd pathotrack
 - npm install
 - npm start
+- Create Google App password for gmail to login 
